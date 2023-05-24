@@ -41,6 +41,7 @@ body{
     border-radius:50%;
     box-shadow:20px 20px 150px #f20044;
 }
+/* another circle on left */
 .heart::after{
     content:"";
     position: absolute;
