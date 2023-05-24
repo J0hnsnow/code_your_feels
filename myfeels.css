@@ -7,17 +7,7 @@ body{
     align-content: center;
     
 }
-/* love emoji */
-.heart{
-    height:350px;
-    width:350px;
-    background-color:red;
-    position: relative;
-    transform: rotate(45deg);
-    box-shadow:-20px 20px 150px #f20044;
-    padding-top:50;
-    animation:palpitar 0.5s linear infinite alternate;
-}
+
 /* styling love message */
 .content{
     position: fixed;
